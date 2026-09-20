@@ -4,7 +4,7 @@ Native Android-App für Android 8 oder neuer. Beim ersten Start wird die Portala
 
 ## APK bauen
 
-Projekt in Android Studio öffnen und **Build → Build APK(s)** wählen. Alternativ das Projekt in ein privates GitHub-Repository übertragen und den enthaltenen Workflow **Android APK** starten. Die erzeugte `app-debug.apk` kann direkt installiert werden; dafür muss „Unbekannte Apps installieren“ für Browser oder Dateimanager erlaubt sein.
+Der GitHub-Workflow erzeugt eine direkt installierbare Debug-APK. Auf dem Android-Gerät muss für Browser oder Dateimanager „Unbekannte Apps installieren“ erlaubt sein.
 
 ## Sicherheit
 
